@@ -1,0 +1,1 @@
+G:\electron\obj\x86\Debug\test.vbprojResolveAssemblyReference.cache
